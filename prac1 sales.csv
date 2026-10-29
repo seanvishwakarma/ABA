@@ -1,0 +1,6 @@
+CustomerID,Gender,Age,City,PurchaseAmount
+C001,Male,25,Mumbai,2500
+C002,Female,30,Pune,3500
+C003,Male,22,Mumbai,1800
+C004,Female,28,Delhi,4200
+C005,Male,35,Pune,5000
